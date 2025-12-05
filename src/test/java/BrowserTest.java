@@ -13,5 +13,9 @@ public class BrowserTest {
 		System.out.println("first output");
 		System.out.println("second output");
 		//WebElement cart= 
+		System.out.println("first output");
+		System.out.println("second output");
+		System.out.println("first output");
+		System.out.println("second output");
 	}
 }

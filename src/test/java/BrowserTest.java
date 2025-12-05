@@ -9,6 +9,9 @@ public class BrowserTest {
 		System.setProperty("webdriver.chrome.driver", projectPath+"\\drivers\\chromeDriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://automationexercise.com/");
+		
+		System.out.println("first output");
+		System.out.println("second output");
 		//WebElement cart= 
 	}
 }

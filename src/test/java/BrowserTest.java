@@ -17,5 +17,15 @@ public class BrowserTest {
 		System.out.println("second output");
 		System.out.println("first output");
 		System.out.println("second output");
+		
+		
+	}
+	public void SUbject() {
+		System.out.println("first output");
+		System.out.println("second output");
+	}
+	public void Student() {
+		System.out.println("first output");
+		System.out.println("second output");
 	}
 }
